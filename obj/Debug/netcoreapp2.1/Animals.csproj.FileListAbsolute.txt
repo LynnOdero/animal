@@ -1,0 +1,11 @@
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.csprojResolveAssemblyReference.cache
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+C:\Users\DAVID-OGOLA\source\repos\Animals\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
